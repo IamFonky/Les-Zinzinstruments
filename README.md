@@ -8,7 +8,8 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 
 Prof : Pierre-Benjamin Monaco
 Etudiant : Tarita
-Etudiant : Ruben 
+Etudiant : Ruben
+Etudiant : Deon
 
 ## 🧪 Ta mission
 
