@@ -6,7 +6,10 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 
 ## Participants
 
-élève : Deon Hoxha
+Prof : Pierre-Benjamin Monaco
+Etudiant : Tarita
+Etudiant : Ruben
+Etudiant : Deon
 
 ## 🧪 Ta mission
 
