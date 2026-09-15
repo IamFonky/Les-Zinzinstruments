@@ -3,7 +3,8 @@
 Le tout premier projet Web en collaboration avec tous les élèves d'une classe de 2C-CI.
 
 15 instruments à jouer en un clic, sons synthétisés en direct avec l'API Web Audio — aucun fichier audio !
-
+## Participants
+Elève : Deon Hoxha
 ## 🧪 Ta mission
 
 Le zoo est presque vide : il ne reste que le **piano** 🎹 et la **voix** 🗣️ (les cases grises ❓ sont les instruments inconnus qui attendent d'être créés... par toi !).
