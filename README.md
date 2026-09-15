@@ -6,10 +6,10 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 
 ## Participants
 
-Prof : 
+Profs : 
   - Pierre-Benjamin Monaco
 
-Etudiant : 
+Etudiants : 
   - Tarita
   - Ruben
 ## 🧪 Ta mission
