@@ -4,7 +4,7 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 
 15 instruments à jouer en un clic, sons synthétisés en direct avec l'API Web Audio — aucun fichier audio !
 
-## particppant élève : Naïm Kacem 
+## participant élève : Naïm Kacem 
 
 ## 🧪 Ta mission
 
