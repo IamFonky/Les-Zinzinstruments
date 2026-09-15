@@ -6,10 +6,12 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 
 ## Participants
 
-Prof : Pierre-Benjamin Monaco
-Etudiant : Tarita
-Etudiant : Ruben 
+Prof : 
+  - Pierre-Benjamin Monaco
 
+Etudiant : 
+  - Tarita
+  - Ruben
 ## 🧪 Ta mission
 
 Le zoo est presque vide : il ne reste que le **piano** 🎹 et la **voix** 🗣️ (les cases grises ❓ sont les instruments inconnus qui attendent d'être créés... par toi !).
