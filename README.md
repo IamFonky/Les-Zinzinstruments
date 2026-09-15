@@ -3,6 +3,7 @@
 Le tout premier projet Web en collaboration avec tous les élèves d'une classe de 2C-CI.
 
 15 instruments à jouer en un clic, sons synthétisés en direct avec l'API Web Audio — aucun fichier audio !
+
 ## Participants
 
 élève : Deon Hoxha
